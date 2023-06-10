@@ -309,7 +309,7 @@ section {
                     .mysql{width: 60%;}
                     .cplus{width: 40%;}
                     .spboot{width: 70%;}
-                    .java{width: 30%;}
+                    .java{width: 60%;}
 
                 }
             }
@@ -698,6 +698,9 @@ section {
 
 .envoyer:hover{
     background-color: var(--color-secondary);
+}
+.theme-btn{
+    display: none!important;
 }
 
 @import './media';
